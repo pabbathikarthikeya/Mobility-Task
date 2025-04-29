@@ -22,7 +22,7 @@ Easy to visualize results using tools like Power BI or Tableau.
 
 ## Create Tables in PostgreSQL
 
-```bash sql
+```bash 
 -- Create table for customer orders
 CREATE TABLE customer_orders (
     order_id VARCHAR PRIMARY KEY,
